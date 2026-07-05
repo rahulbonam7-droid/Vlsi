@@ -1,5 +1,5 @@
 # Vlsi
-- 🎓 Electronics Engineer
+- 🎓 Electronics Engineer Graduate
 - 💻 Learning VLSI Physical Design
 - 🐍 Learning Python
 - 🌱 Learning Git & GitHub
